@@ -563,3 +563,40 @@ footer{
     background-color: var(--white);
     margin-top: 20px;
 }
+
+
+
+
+/*Contact Us*/
+.contact-us{
+    padding: 180px 0;
+}
+.text-gradient-color{
+    color: #ffffff;
+    background: linear-gradient(180deg, #f15a59 0%, #f78f8f 51%, #f15a59 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+.main-heading{
+    font-size: 58px;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+.contcat-info{
+    background: linear-gradient(180deg, #f15a59 0%, #f78f8f 51%, #f15a59 100%);;
+    width: 80%;
+    margin: 0 auto;
+    padding: 50px 0;
+    border-radius: 20px;
+}
+.image-box{
+    text-align: center;
+}
+.image-box i{
+    font-size: 30px;
+    color: #fff;
+}
+.image-box a{
+    text-decoration: none;
+}
