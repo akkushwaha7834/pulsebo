@@ -52,9 +52,22 @@ header nav {
     transition: all .2s;
     /* background-color:; */
 }
+.dropdown:hover .dropdown_content{
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all .2s;
 
+}
 .dropdown_content{
-    
+    transition: all .2s;
+    position: absolute;
+    opacity: 0;
+    width: 150px;
+    transform: translateY(-20px);
+    display: flex;
+    flex-direction: column;
+    background-color: var(--glass);
+    border-radius: 10px;
 }
 .pages ul {
     display: flex;
@@ -312,7 +325,7 @@ p {
     position: absolute;
     width: 400px;
     text-align: center;
-    margin-top: 15%;
+    margin-top: 190px;
     margin-left: 45%;
     transform: translateX(-50%);
 }
