@@ -289,4 +289,67 @@
         </div>
     </div>
 </section>
+
+
+
+<section class="about-track-record">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="section_head">
+                    <h2>Pulsebot's Track Record on
+                        <br>
+                    MyFxBook
+                    </h2>
+                    <p>This account began with an initial funding of $90,000 and is set at a Medium Risk level with a 100% Drawdown. <br>Simultaneously, both Multi-level and Scalp strategies are active on our recommended currency pairs. For the multi-level strategy include <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>, while for the scalp strategy, we recommend <strong>(AUDNZD, NZDCAD, USDCHF)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <img src="assets/img/pulsebotpro1.png" class="img-fluid" alt="">
+                    <p>This account began with an initial funding of $10,000 and is set at a Medium Risk level with a 100% Drawdown, and only the multi-level strategy is active, focusing on recommended currency pairs including <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <img src="assets/img/pulsebotpro2.png" class="img-fluid w-100" alt="">
+                    <h2 class="mt-4">Pulsebot's Track Record on
+                        <br>
+                    MyFxBook
+                    </h2>
+                    <p class="py-4">This account began with an initial funding of $90,000 and is set at a Medium Risk level with a 100% Drawdown. <br>Simultaneously, both Multi-level and Scalp strategies are active on our recommended currency pairs. For the multi-level strategy include <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>, while for the scalp strategy, we recommend <strong>(AUDNZD, NZDCAD, USDCHF)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <img src="assets/img/pulsebotpro3.png" class="img-fluid" alt="">
+                    <a href=""
+                        class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
+                        style="background-color:#12222d ;max-width:400px;">
+                        <div class="whatsapp-icon">
+                            <i class="ri-whatsapp-line text-light fs-1"></i>
+                        </div>
+                        <div class="suport-disc text-start">
+                            <h2 class="fs-5">24/5 Support</h2>
+                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="col-12 text-center">
+                <div class="section_head">
+                    <h2>Pulsebot's Track Record on <br>
+                        FXBlue
+                    </h2>
+                    <p>Tracking the 90K account's performance on the<strong> FXBlue platform</strong> gives valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily trade volume.</p>
+                    <img src="assets/img/pulsebotpro4.png" class="img-fluid" alt="">
+                    <p>Tracking the 10K account's performance on the<strong> FXBlue platform</strong> gives valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily trade volume.</p>
+                    <img src="assets/img/pulsebotpro5.png" class="img-fluid w-100" alt="">
+                    <a href=""
+                        class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
+                        style="background-color:#12222d ;max-width:400px;">
+                        <div class="whatsapp-icon">
+                            <i class="ri-whatsapp-line text-light fs-1"></i>
+                        </div>
+                        <div class="suport-disc text-start">
+                            <h2 class="fs-5">24/5 Support</h2>
+                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
 <?php include('includes/footer.php'); ?>
