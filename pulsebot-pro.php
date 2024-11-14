@@ -22,24 +22,17 @@
             </div>
             <div class="col-lg-6 align-self-center">
                 <h2 class="fs-1">Pulsebot PRO</h2>
-                <h2 class="fs-4">XAUBOT AI + 4 Essential Trading Tools</h2>
-                <p style="text-align: left;">XAUBOT AI Pro is your all-in-one solution for trading in forex and gold
-                    markets. With 6 powerful trading tools packed into one, it’s perfect for traders who want to step up
-                    their trade.</p>
-                <p>This AI expert advisor designed for <strong>funded trading accounts</strong> and larger portfolios.
-                    Get all six professional-grade tools for just <strong>$1199</strong> with our special offer, instead
-                    of the usual <strong>$1786</strong>.</p>
+                <h2 class="fs-4">Pulsebot AI + 4 Essential Trading Tools</h2>
+                <p style="text-align: left;">Pulsebot AI Pro is a comprehensive solution for forex and gold trading, bundling six powerful tools to elevate your trading experience. Ideal for larger portfolios and funded accounts, this suite offers everything you need at a special price of $1199 (normally $1786).
+                </p>
 
                 <p></p>
                 <ul class="list-group list-inline fs-6">
-                    <li>Recommended currency pairs: AUDNZD, AUDCAD, NZDCAD, GBPNZD</li>
-                    <li>Suitable for XAUUSD exceeding $10,000</li>
-                    <li>Customized set file for GOLD</li>
-                    <li>Live update account on <span style="color: #f15a59;"><a
-                                style="color: #f15a59;">MyFxBook</a></span></li>
-                    <li style="text-align: left;">Expected profit of 2% to 5%</li>
-                    <li style="text-align: left;">Drawdown limit according to your requirements</li>
-                    <li style="text-align: left;">100-day no questions asked refund policy</li>
+                   <li><strong>Recommended Pairs:</strong> AUDNZD, AUDCAD, NZDCAD, GBPNZD</li>
+                   <li><strong>Gold Trading:</strong> Optimized for accounts over $10,000 on XAUUSD</li>
+                   <li><strong>Profit Expectation:</strong> 2% - 5%</li>
+                   <li><strong>Drawdown Control:</strong> Adjustable</li>
+                   <li><strong>Refund Policy:</strong> 100-day guarantee</li>
                 </ul>
 
             </div>
@@ -61,65 +54,34 @@
             <div class="col-md-6  ">
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
-                    <h2>XAUBOT AI</h2>
-                    <p>The regular XAUBOT features two strategies: Multi-level and Single-level.
+                    <h2>Pulsebot AI</h2>
+                    <h2 class="fs-5">Price: $990</h2>
+                    <p>Pulsebot AI offers two advanced strategies for forex and gold trading: Multi-Level and Scalp.
+
                     </p>
                     <h2 class="fs-4">Multi level strategy</h2>
-                    <p>This automated trading bot empowers you to trade multiple currency pairs and GOLD with ease.
-                        Customize your trading settings, such as stop loss (SL), take profit (TP), and drawdown limit
-                        (DD), and benefit from advanced features like news filtering and risk management. Whether you're
-                        an experienced trader or new to trading, this strategy is your path to success. This is the
-                        optimal choice for Proprietary Trading (Prop Trading). Simply adjust the input parameters
-                        according to the consistency rules in your Prop Firm Challenge and lets the bot decide and trade
-                        by itself.
+                    <p>Multi-Level Strategy
+Ideal for managing multiple currency pairs and gold, this strategy includes customizable settings like stop loss, take profit, and drawdown limit, along with news filtering and risk management tools. Perfect for Prop Trading, this bot aligns with Prop Firm requirements for automated trading.
+
 
                     </p>
                     <h2 class="fs-4">Scalp strategy
                     </h2>
-                    <p>This automated trading bot empowers you to take advantage of short-term trading opportunities
-                        with this high-performance bot. Designed for quick trades, especially during low volatility
-                        periods, this bot lets you set precise stop loss and take profit levels, ensuring you maximize
-                        your gains while minimizing risk. This strategy is suitable for traders who prefer more
-                        aggressive trading in shorter time frames, especially during nighttime hours.
+                    <p>Scalp Strategy
+Designed for short-term trading, especially in low volatility, this strategy supports precise stop loss and profit levels, daily limits, and time-restricted trading.
+
                     </p>
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Multi Level Strategy Features:</h2>
 
                     <ul>
-                        <li>Compatible with ALL currencies and GOLD</li>
-                        <li>Customize settings such as preferred levels, stop loss, take profit, and drawdown limit</li>
-                        <li>News filter actions</li>
-                        <li>Risk and money management techniques</li>
-                        <li>Compatible with the Prop-Firm challenges</li>
-                        <li>Custom set files for Prop-Firm and funded accounts</li>
+                       <li>Compatible with all currencies and gold</li>
+                       <li>Advanced risk and money management</li>
+                       <li>Custom Prop Firm settings</li>
                     </ul>
-                    <h2 class="fs-4">Scalp Strategy Features:</h2>
 
-                    <ul>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Trade multiple currencies
-                                with a single level
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Ideal for swift trades
-                                with determined stop loss and take profit
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">News filter actions
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Set a maximum daily loss
-                                and daily drawdown
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Set a specific time limit
-                                for trading activities
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Money management
-                                techniques
-                            </span></li>
-                    </ul>
+                  
+                    
                     <div class="banner_links1 mt-3">
                         <a href="" class="d-block"
                             style="background-color: #f15a59;display:block;text-decoration:none;color:white;padding:10px ;font-weight:bold;text-align:center;border-radius:10px">Get
@@ -135,32 +97,19 @@
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
                     <h2>AI Technical Analysis Tool</h2>
-                    <p style="text-align: left;">In the forex market, it's crucial to make well-informed trading
-                        decisions. With this technical analysis tool, you'll have access to an wide array of indicators,
-                        such as&nbsp;<strong>APEX</strong>&nbsp;and&nbsp;<strong>Momentum</strong>, and receive
-                        real-time&nbsp;<strong>buy</strong>&nbsp;and&nbsp;<strong>sell</strong>&nbsp;signals delivered
-                        directly to your&nbsp;<strong>Telegram account.</strong></p>
+                    <h2 class="fs-5">Price: $199</h2>
+
+                    <p style="text-align: left;">Make informed forex trading decisions with this advanced analysis tool, featuring an array of indicators like APEX and Momentum. Receive real-time buy and sell signals directly on Telegram for quick and responsive trading.
+                    </p>
 
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Technical Analysis Features:</h2>
 
                     <ul>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Access detailed
-                                information from each chart
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Access to highly accurate
-                                indicators like APEX, Momentum, and others
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Receive buy/sell points in
-                                your Telegram account
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Ideal for traders who
-                                prefer to review options before opening trades
-                            </span></li>
+                       <li>Access in-depth chart analysis</li>
+                       <li>Highly accurate indicators including APEX and Momentum</li>
+                       <li>Real-time buy/sell notifications to Telegram</li>
+                       <li>Perfect for traders who prefer reviewing insights before entering trades</li>
                     </ul>
                     <div class="banner_links1 mt-3">
                         <a href="" class="d-block"
@@ -170,35 +119,26 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-lg-6">
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
-                    <h2>Money Management Features:</h2>
-                    <p style="text-align: left;">Take control of your trading with our advanced money management tool.
-                        From modifying orders to setting alarms and automatic money management, this tool enhances your
-                        trading experience, making it more efficient and effective.<br><br></p>
+                    <h2>AI Money Management Tool
+                    </h2>
+                    <h2 class="fs-5">Price: $299</h2>
+
+                    <p style="text-align: left;">Optimize your trading approach with this AI-powered money management tool. It offers advanced features like order modification, alarm settings, and automatic money management, all designed to streamline and improve your trading experience.
+                    </p>
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Multi Level Strategy Features:</h2>
 
                     <ul>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Modify orders, set alarms,
-                                and receive notifications in your Telegram account
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Set trailing stop and
-                                profit to manage your trades effectively
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Automatic money management
-                                to streamline your trading process
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Enhances trading
-                                efficiency and decision-making
-                            </span></li>
+                      <li>Modify orders and set alarms with notifications on Telegram</li>
+                      <li>Control trades with trailing stop and profit options</li>
+                      <li>Automate money management for efficiency</li>
+                      <li>Enhances overall trading precision and decision-making</li>
                     </ul>
-                    <div class="banner_links1 mt-3">
+                    <div class="banner_links1 my5-3">
                         <a href="" class="d-block"
                             style="background-color: #f15a59;display:block;text-decoration:none;color:white;padding:10px ;font-weight:bold;text-align:center;border-radius:10px">Get
                             Started for Free <span><i class="ri-user-fill"></i></span></a>
@@ -210,35 +150,19 @@
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
                     <h2>AI Telegram Bot</h2>
-                    <p style="text-align: left;">The Telegram signals bot is a powerful tool designed to enhance your
-                        trading experience by delivering automated signals directly to your Telegram account. <br><br>By
-                        attaching the expert advisor file to your desired chart, whether it's for forex, metals, or
-                        cryptocurrencies, you can receive signals in real-time, empowering you to make informed trading
-                        decisions with ease.</p>
+                    <h2 class="fs-5">Price: $99</h2>
+
+                    <p style="text-align: left;">Elevate your trading with this Telegram signals bot, which provides real-time trading signals straight to your Telegram account. Attach the expert advisor file to any chart, from forex to metals or cryptocurrencies, for instant insights and informed trading.
+                    </p>
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Telegram Bot Features:</h2>
 
                     <ul>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Automated Signal Delivery:
-                                Receive trading signals directly to your Telegram account
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Multiple Chart
-                                Compatibility: The expert advisor can be attached to various charts, including those for
-                                forex, metals, and cryptocurrencies
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">User-Friendly Interface:
-                                The expert advisor features a user-friendly interface that makes it easy to set up and
-                                use, even for traders with limited technical expertise.
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Real-Time Analysis:
-                                Benefit from real-time market analysis</span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Generating Money: Useful
-                                for those who wants to launch their telegram signal channel</span></li>
+                       <li>Automated Signal Delivery: Real-time signals on Telegram</li>
+                       <li>Multi-Chart Compatibility: Supports forex, metals, and crypto charts</li>
+                       <li>User-Friendly Interface: Simple setup for all experience levels</li>
+                       <li>Real-Time Analysis: Instant market updates</li>
+                       <li>Income Potential: Ideal for launching a signal channel</li>
                     </ul>
                     <div class="banner_links1 mt-3">
                         <a href="" class="d-block"
@@ -251,34 +175,24 @@
             <div class="col-lg-6">
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
-                    <h2>AI Fundamental Analysis Tool</h2>
-                    <p style="text-align: left;">Anticipate market trends with our AI-powered fundamental analysis tool.
-                        <br><br>By analyzing&nbsp;<strong>historical data and upcoming news</strong>&nbsp;events, this
-                        tool provides invaluable insights into potential market movements and allowing you to capitalize
-                        on lucrative trading opportunities.
+                    <h2>AI Fundamental Analysis Tool
+                    </h2>
+                    <h2 class="fs-5">Price: $199</h2>
+
+                    <p style="text-align: left;">Stay ahead of market trends with this AI-driven fundamental analysis tool. By leveraging historical data and upcoming news events, it provides key insights for identifying profitable trading opportunities.
+
                     </p>
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Fundamental Analysis Features:</h2>
 
                     <ul>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Explore market data from
-                                Investing and Forex Factory.
-                            </span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Analyzing historical
-                                market data using machine learning algorithms</span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Select your desired
-                                currency and let the bot analyze effective news</span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Anticipate trends based on
-                                historical data and upcoming news</span></li>
-                        <li class="mfn-list-item"><span class="mfn-list-icon"><i class="icon-dot"
-                                    aria-hidden="true"></i></span><span class="mfn-list-desc">Ideal for traders who
-                                prefer trading during news events for potential profit</span></li>
+                       <li>Access comprehensive market data from sources like Investing and Forex Factory</li>
+                       <li>Analyze historical data using machine learning for trend predictions</li>
+                       <li>Choose specific currencies for targeted news analysis</li>
+                       <li>Predict trends based on past data and upcoming events</li>
+                       <li>Perfect for traders focusing on news-driven market movements</li>
                     </ul>
-                    <div class="banner_links1 mt-3">
+                    <div class="banner_links1 my-5">
                         <a href="" class="d-block"
                             style="background-color: #f15a59;display:block;text-decoration:none;color:white;padding:10px ;font-weight:bold;text-align:center;border-radius:10px">Get
                             Started for Free <span><i class="ri-user-fill"></i></span></a>
@@ -295,21 +209,24 @@
 <section class="about-track-record">
     <div class="container">
         <div class="row">
-            <div class="col-12 text-center">
+            <div class="col-12 text-center mt-5">
                 <div class="section_head">
                     <h2>Pulsebot's Track Record on
                         <br>
                     MyFxBook
                     </h2>
-                    <p>This account began with an initial funding of $90,000 and is set at a Medium Risk level with a 100% Drawdown. <br>Simultaneously, both Multi-level and Scalp strategies are active on our recommended currency pairs. For the multi-level strategy include <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>, while for the scalp strategy, we recommend <strong>(AUDNZD, NZDCAD, USDCHF)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <p class="my-5">Starting with an initial funding of $90,000, this account is configured for Medium Risk with a 100% drawdown limit. Both Multi-Level and Scalp strategies are in action on selected currency pairs. Recommended pairs for the Multi-Level strategy include AUDNZD, AUDCAD, NZDCAD, and GBPNZD, while the Scalp strategy focuses on AUDNZD, NZDCAD, and USDCHF. For live performance details, click the image to view the account on MyFxBook.
+                    </p>
                     <img src="assets/img/pulsebotpro1.png" class="img-fluid" alt="">
-                    <p>This account began with an initial funding of $10,000 and is set at a Medium Risk level with a 100% Drawdown, and only the multi-level strategy is active, focusing on recommended currency pairs including <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <p class="my-5">This account was initially funded with $10,000 and operates at a Medium Risk level with a 100% drawdown. Only the Multi-Level strategy is active, focusing on the recommended currency pairs: AUDNZD, AUDCAD, NZDCAD, and GBPNZD. For more details and to view the live performance, click the image to access the account on MyFxBook.
+                    </p>
                     <img src="assets/img/pulsebotpro2.png" class="img-fluid w-100" alt="">
-                    <h2 class="mt-4">Pulsebot's Track Record on
+                    <h2 class="mt-5">Pulsebot's Track Record on
                         <br>
                     MyFxBook
                     </h2>
-                    <p class="py-4">This account began with an initial funding of $90,000 and is set at a Medium Risk level with a 100% Drawdown. <br>Simultaneously, both Multi-level and Scalp strategies are active on our recommended currency pairs. For the multi-level strategy include <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>, while for the scalp strategy, we recommend <strong>(AUDNZD, NZDCAD, USDCHF)</strong>. For additional details about this account, click on the image to view it live on MyFXBOOK.</p>
+                    <p class="my-5">This account was initially funded with $10,000 and exclusively operates using the multi-level strategy. To achieve optimal results with Pulsebot Pro in gold trading, a minimum capital of $10,000 is required. Upon purchase, you’ll gain access to the exclusive XAUUSD set file. For more details and to view the live performance, click the image to visit the account on MyFxBook.
+                    </p>
                     <img src="assets/img/pulsebotpro3.png" class="img-fluid" alt="">
                     <a href=""
                         class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
@@ -319,19 +236,21 @@
                         </div>
                         <div class="suport-disc text-start">
                             <h2 class="fs-5">24/5 Support</h2>
-                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                            <h2 class="fs-5">Pulsebot offers 24/5 support</h2>
                         </div>
                     </a>
                 </div>
             </div>
-            <div class="col-12 text-center">
+            <div class="col-12 text-center mt-5">
                 <div class="section_head">
-                    <h2>Pulsebot's Track Record on <br>
-                        FXBlue
+                    <h2>Pulsebot's track record on <br> the FXBlue 
+
                     </h2>
-                    <p>Tracking the 90K account's performance on the<strong> FXBlue platform</strong> gives valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily trade volume.</p>
+                    <p class="my-5">Pulsebot's track record on the FXBlue platform provides valuable insights into the performance of the $90K account. The platform offers detailed analytics, including daily drawdown, free margin, and trade volume, helping users evaluate the effectiveness of their trading strategy and make informed decisions for future trades.
+                    </p>
                     <img src="assets/img/pulsebotpro4.png" class="img-fluid" alt="">
-                    <p>Tracking the 10K account's performance on the<strong> FXBlue platform</strong> gives valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily trade volume.</p>
+                    <p class="my-5">Tracking the 10K account's performance on the<strong> FXBlue platform</strong> gives valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily trade volume.Monitoring the 10K account’s performance on the FXBlue platform provides valuable insights, with key metrics like daily drawdown, free margin, and trade volume available. These details allow traders to better assess their strategies and improve their trading decisions.
+                    </p>
                     <img src="assets/img/pulsebotpro5.png" class="img-fluid w-100" alt="">
                     <a href=""
                         class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
@@ -341,13 +260,99 @@
                         </div>
                         <div class="suport-disc text-start">
                             <h2 class="fs-5">24/5 Support</h2>
-                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                            <h2 class="fs-5">Pulsebot offers 24/5 support</h2>
                         </div>
                     </a>
                 </div>
             </div>
         </div>
     </div>
+</section>
+
+
+<section class="faq-section strategies">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-12 text-center">
+				<h3 class="strategies-head">
+					Frequently Asked <span>Questions</span>
+				</h3>
+				<p>
+					If you have any other queries, feel free to reach out to us via email or WhatsApp, and we'll gladly assist you.
+				</p>
+			</div>
+			<div class="col-md-8">
+				<div class="accordion faq-accordion mt-5 mb-5" id="accordionExample">
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingOne">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    What currency pairs can the bot trade?
+                                </button>
+                            </h3>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Pulsebot Works with ALL forex currency pairs
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    What brokers does the robot support and which broker do you recommend?
+                                </button>
+                            </h3>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    While we don't recommend any brokers to our customers, here are brokers that have
+                                    been tested by us and our customers have had positive results with: IC Markets,
+                                    Pepperstone, Tickmill, RannForex, XM, FIBO Group, Coinexx, RoboForex, ThinkMarkets,
+                                    Vantage, Oanda, MexAtlantic, Windsor, Exness, FXCM, 8Cap.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Is it possible to change the settings of the bot?
+                                </button>
+                            </h3>
+
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Yes, the bot can be adjusted in 3 modes: low, medium and high, in each of which the
+                                    amount
+                                    of
+                                    monthly profit and drawdown is different.
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    What is the monthly profit?
+                                </button>
+                            </h3>
+                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+
+                                    It depends on the market conditions, but around 2% to 10% based on your desire risk.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+			</div>
+		</div>
+	</div>
 </section>
 
 

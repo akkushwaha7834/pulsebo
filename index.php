@@ -11,9 +11,7 @@
                                 <h1>Forex Trading Tool
                                 </h1>
                                 <h5>Take action to secure your portfolio</h5>
-                                <p>XAUBOT is an Expert Advisor powered by machine learning and artificial intelligence,
-                                    compatible with ALL forex trading pairs. Trade any trading pair you’d like and also
-                                    trade multiple pairs simultaneously with this automated approach to trading.</p>
+                                <p>Pulsebot is a powerful Expert Advisor driven by machine learning and AI, designed to work seamlessly with all forex trading pairs.</p>
                                 <div class="banner_links">
                                     <a href="">Get Started for Free <span><i class="ri-user-fill"></i></span></a>
                                     <a href="">Join Telegram <span><i class="ri-telegram-2-line"></i></span></a>
@@ -36,19 +34,16 @@
                     </div>
                     <div class="col-lg-8 order-lg-2 order-1">
                         <div class="about_right">
-                            <h2>What is XAUBOT?</h2>
-                            <p>XAUBOT is an Automated Forex Trading Tool developed by Adak Academy. By relying on AI and
-                                smart trading approaches. XAUBOT offers 2 products, each carefully designed to meet your
-                                specific needs. To know more about these products and their benefits, please see the
-                                detailed information below.</p>
+                            <h2>What is Pulsebot?</h2>
+                            <p>Pulsebot is an advanced automated forex trading tool, developed with AI-driven strategies to optimize trading outcomes. Designed for flexibility, Pulsebot works with all forex currency pairs and gold, allowing users to trade multiple pairs simultaneously. It offers two specialized products, each tailored to meet unique trading needs.
+                            </p>
                             <ul>
-                                <li><i class="ri-check-double-fill"></i> Works with ALL forex currency pairs and GOLD
-                                </li>
-                                <li><i class="ri-check-double-fill"></i> Trade Multiple Pairs Simultaneously</li>
-                                <li><i class="ri-check-double-fill"></i> Expected Monthly Profit 2% – 10%</li>
-                                <li><i class="ri-check-double-fill"></i> Advanced Money Management</li>
-                                <li><i class="ri-check-double-fill"></i> Risk Management With AI</li>
-                                <li><i class="ri-check-double-fill"></i> Limited Drawdown</li>
+                                <li><i class="ri-check-double-fill"></i>Works with all currency pairs and gold</li>
+                                <li><i class="ri-check-double-fill"></i>Trade multiple pairs at once</li>
+                                <li><i class="ri-check-double-fill"></i>Expected monthly profit of 2% – 10%</li>
+                                <li><i class="ri-check-double-fill"></i>Advanced money and risk management powered by AI</li>
+                                <li><i class="ri-check-double-fill"></i>Limited drawdown for secure trading</li>
+                                
                             </ul>
                             <img src="assets/img/about-bottom-list.png" class="img-fluid w-50" alt="">
                             <div class="banner_links my-4">
@@ -90,16 +85,17 @@
                 <div class="row py-5">
                     <div class="col-12">
                         <div class="section_head">
-                            <h2>Why Invest in XAUBOT?</h2>
+                            <h2>Why Invest in Pulsebot?
+                            </h2>
                             <h5>Experience Forex Success with Our AI-Powered Tools</h5>
                         </div>
                     </div>
                     <div class="col-lg-6  px-md-5 px-3  ">
-                        <p>Here at XAUBOT, we started our journey with automated trading bot in the forex market.
+                        <p>Achieve forex success with Pulsebot’s AI-powered trading tools, designed to boost performance and protect your investments.
                         </p>
-                        <p>But just like the enduring value and legacy of gold throughout time getting more and more
-                            precious, so too XAUBOT has become more than what it was.</p>
-                        <p>And now with XAUBOT you can automatically trade all pairs in the foreign exchange market.</p>
+                        <p>At Pulsebot, we began our journey by developing an automated trading bot for the forex market. Like gold’s timeless value, Pulsebot has grown stronger and more versatile over time. Today, Pulsebot empowers you to trade all forex pairs automatically, bringing the precision and adaptability needed for success in the fast-paced forex market.
+                        </p>
+                       
                         <h2 class="text-normal fs-3">$2,000,000 investment received</h2>
                         <div class="profit_parent">
 
@@ -165,7 +161,7 @@
         </section>
 
         <section class="step_of_investing" id="step_of_investing">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="row">
                     <div class="col-12">
                         <div class="section_head">
@@ -177,37 +173,41 @@
                         <div class="steps__section">
                             <div class="step step1 d-flex">
                                 <div class="steps__content">
-                                    <h4 class="steps__heading">Select the Plan that Suits You
+                                    <h4 class="steps__heading">Sign Up for Pulsebot
+
                                     </h4>
-                                    <p class="steps__p">Choose your subscription and get your exclusive license key,
-                                        tailored to your MT4 account number.</p>
+                                    <p class="steps__p">Create your account on the Pulsebot platform. Choose the subscription that suits your trading goals, whether you’re a beginner or a seasoned trader.
+                                    </p>
                                 </div>
-                                <img src="assets/img/Step1.svg" class="steps__img img-fluid" alt="" loading="lazy">
+                                <img src="assets/img/step  banner-01.png" class="steps__img img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="step step2 d-none">
                                 <div class="steps__content">
-                                    <h4 class="steps__heading">Integrate the EA with Your Broker</h4>
-                                    <p class="steps__p">Download and run your EA file in under 5 minutes with our video
-                                        tutorial on YouTube or PDF guide included in the zip file.</p>
+                                    <h4 class="steps__heading">Connect Your Broker Account
+                                    </h4>
+                                    <p class="steps__p">Link your preferred brokerage account seamlessly with Pulsebot. Our platform supports various leading brokers for a smooth trading experience.
+                                    </p>
                                 </div>
-                                <img src="assets/img/step2.svg" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/step  banner-02.png" class="steps__img img-fluid" alt="">
                             </div>
                             <div class="step step3 d-none">
                                 <div class="steps__content">
-                                    <h4 class="steps__heading">Customize Your Set File</h4>
-                                    <p class="steps__p">You have the option to customize the set file according to your
-                                        settings, or you can use our default set file and load it through the settings.
+                                    <h4 class="steps__heading">Configure Your Trading Settings
+                                    </h4>
+                                    <p class="steps__p">Customize risk levels, set trading parameters, and personalize your strategy to align with your investment preferences.
+
                                     </p>
                                 </div>
-                                <img src="assets/img/Step3.svg" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/step  banner-03.png" class="steps__img img-fluid" alt="">
                             </div>
                             <div class="step step4 d-none">
                                 <div class="steps__content">
-                                    <h4 class="steps__heading">Generating Secure Steady Income</h4>
-                                    <p class="steps__p">Use the AI tools without coding skills and help you save time,
-                                        trade 24/5 and automate your trading.</p>
+                                    <h4 class="steps__heading">Start Trading Automatically
+                                    </h4>
+                                    <p class="steps__p">Once configured, activate Pulsebot and let it handle your trades, monitoring markets in real-time to maximize returns while you relax.
+                                    </p>
                                 </div>
-                                <img src="assets/img/Step4.svg" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/step  banner-04.png" class="steps__img img-fluid" alt="">
                             </div>
                         </div>
                     </div>
@@ -366,7 +366,7 @@
                 <div class="row">
                     <div class="col-12 mt-5 ">
                         <div class="section_head">
-                           <h2>Key Features of XAUBOT Futures</h2>
+                           <h2>Key Features of Pulsebot Futures</h2>
                            <h5>4 Top Features in Our Latest Updates</h5>
                         </div>
                     </div>
@@ -374,39 +374,39 @@
                     <div class="col-10 mx-auto">
                         <div class="row g-4">
                             <div class="col-lg-3 col-md-6">
-                                <div class="feature_box mt-5">
+                                <div class="feature_box mt-5 h-75 d-flex flex-column justify-content-between align-items-center ">
                                     <div class="icon">
-                                        <img src="assets/img/feature1.svg" alt="">
+                                        <img src="assets/img/Draw Down.png" alt="">
                                     </div>
-                                    <h3 class="heading">Draw Down</h3>
+                                    <h3 class="heading">Draw  Down</h3>
                                     <div class="disc">Limited Drawdown</div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="feature_box mt-5">
+                                <div class="feature_box mt-5 h-75 d-flex flex-column justify-content-between align-items-center ">
                                     <div class="icon">
-                                        <img src="assets/img/feature2.svg" alt="">
+                                        <img src="assets/img/Monthly Profit.png" alt="">
                                     </div>
-                                    <h3 class="heading">Draw Down</h3>
-                                    <div class="disc">Limited Drawdown</div>
+                                    <h3 class="heading">Monthly Profit</h3>
+                                    <div class="disc">Expected 2% to 10%</div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="feature_box mt-5">
+                                <div class="feature_box mt-5 h-75 d-flex flex-column justify-content-between align-items-center ">
                                     <div class="icon">
-                                        <img src="assets/img/feature3.svg" alt="">
+                                        <img src="assets/img/Risk Management.png" alt="">
                                     </div>
-                                    <h3 class="heading">Draw Down</h3>
-                                    <div class="disc">Limited Drawdown</div>
+                                    <h3 class="heading">Win  Rate</h3>
+                                    <div class="disc">%81 Verified Myfxbook</div>
                                 </div>
                             </div>
                             <div class="col-lg-3 col-md-6">
-                                <div class="feature_box mt-5">
+                                <div class="feature_box mt-5 h-75 d-flex flex-column justify-content-between align-items-center ">
                                     <div class="icon">
-                                        <img src="assets/img/feature4.svg" alt="">
+                                        <img src="assets/img/win rate.png" alt="">
                                     </div>
-                                    <h3 class="heading">Draw Down</h3>
-                                    <div class="disc">Limited Drawdown</div>
+                                    <h3 class="heading">Risk  Management</h3>
+                                    <div class="disc">100% with AI</div>
                                 </div>
                             </div>
                         </div>
@@ -498,13 +498,15 @@
                             <h3 class="accordion-header" id="headingOne">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                    What currency pairs can the bot trade?
+                                    What is Pulsebot?
+
                                 </button>
                             </h3>
                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    XAUBOT Works with ALL forex currency pairs
+                                Pulsebot is an AI-powered forex trading tool that automates trading across all forex pairs and gold.
+
                                 </div>
                             </div>
                         </div>
@@ -512,16 +514,15 @@
                             <h3 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    What brokers does the robot support and which broker do you recommend?
+                                    How does Pulsebot work?
+
                                 </button>
                             </h3>
                             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    While we don't recommend any brokers to our customers, here are brokers that have
-                                    been tested by us and our customers have had positive results with: IC Markets,
-                                    Pepperstone, Tickmill, RannForex, XM, FIBO Group, Coinexx, RoboForex, ThinkMarkets,
-                                    Vantage, Oanda, MexAtlantic, Windsor, Exness, FXCM, 8Cap.
+                                Pulsebot uses machine learning and advanced algorithms to analyze market data and execute trades automatically.
+
                                 </div>
                             </div>
                         </div>
@@ -529,17 +530,16 @@
                             <h3 class="accordion-header" id="headingThree">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Is it possible to change the settings of the bot?
+                                    What currencies can I trade with Pulsebot?
+
                                 </button>
                             </h3>
 
                             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    Yes, the bot can be adjusted in 3 modes: low, medium and high, in each of which the
-                                    amount
-                                    of
-                                    monthly profit and drawdown is different.
+                                Pulsebot supports all forex currency pairs as well as gold.
+
                                 </div>
                             </div>
 
@@ -549,14 +549,15 @@
                             <h3 class="accordion-header" id="heading4">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
-                                    What is the monthly profit?
+                                    Is Pulsebot suitable for beginners?
+
                                 </button>
                             </h3>
                             <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
+                                Yes, Pulsebot offers beginner-friendly settings along with customizable options for experienced traders.
 
-                                    It depends on the market conditions, but around 2% to 10% based on your desire risk.
                                 </div>
                             </div>
                         </div>
@@ -565,13 +566,14 @@
                             <h3 class="accordion-header" id="heading5">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse5" aria-expanded="false" aria-controls="collapse5">
-                                    What are the payment methods?
+                                    What is the expected monthly profit?
                                 </button>
                             </h3>
                             <div id="collapse5" class="accordion-collapse collapse" aria-labelledby="heading5"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    You can pay by any master or visa card or you can pay by cryptos.
+                                Pulsebot aims for an expected monthly profit range of 2% to 10%, though results may vary.
+
                                 </div>
                             </div>
                         </div>
@@ -580,13 +582,15 @@
                             <h3 class="accordion-header" id="heading6">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse6" aria-expanded="false" aria-controls="collapse6">
-                                    What is the minimum amount of capital to start trading with the xaubot?
+                                    Can I trade multiple pairs at the same time?
+
                                 </button>
                             </h3>
                             <div id="collapse6" class="accordion-collapse collapse" aria-labelledby="heading6"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    $600 minimum to start but we recommend $1000 for start.
+                                Yes, Pulsebot allows you to trade multiple currency pairs simultaneously.
+
                                 </div>
                             </div>
                         </div>
@@ -595,15 +599,15 @@
                             <h3 class="accordion-header" id="heading7">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse7" aria-expanded="false" aria-controls="collapse7">
-                                    What operating systems does this bot support?
+                                    How does Pulsebot manage risk?
+
                                 </button>
                             </h3>
                             <div id="collapse7" class="accordion-collapse collapse" aria-labelledby="heading7"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
+                                Pulsebot uses AI-driven risk management tools to help minimize drawdowns and protect your investment.
 
-                                    In general, bot can only be installed on mt4 on the computer and the trading of bot
-                                    can be monitored using Android / IOS smartphones.
                                 </div>
                             </div>
                         </div>
@@ -612,13 +616,15 @@
                             <h3 class="accordion-header" id="heading8">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse8" aria-expanded="false" aria-controls="collapse8">
-                                    Can I change my account number?
+                                    Do I need to monitor trades constantly?
+
                                 </button>
                             </h3>
                             <div id="collapse8" class="accordion-collapse collapse" aria-labelledby="heading8"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Yes, if you prove it, the account you are using has been deactivated.
+                                No, Pulsebot is fully automated, allowing you to trade hands-free once configured.
+
                                 </div>
                             </div>
                         </div>
@@ -627,13 +633,15 @@
                             <h3 class="accordion-header" id="heading9">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse9" aria-expanded="false" aria-controls="collapse9">
-                                    Can i use the demo key on a real account ?
+                                    Is there a free trial or demo account?
+
                                 </button>
                             </h3>
                             <div id="collapse9" class="accordion-collapse collapse" aria-labelledby="heading9"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    No, each key is provided specific to the account type.
+                                Pulsebot offers various subscription options, including trials. Check the website for current offers.
+
                                 </div>
                             </div>
                         </div>
@@ -641,82 +649,19 @@
                             <h3 class="accordion-header" id="heading10">
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapse10" aria-expanded="false" aria-controls="collapse10">
-                                    How many transactions does the bot make per day?
+                                    What kind of support is available?
+
                                 </button>
                             </h3>
                             <div id="collapse10" class="accordion-collapse collapse" aria-labelledby="heading10"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    It depends on the market conditions, one of the most important advantages of the bot
-                                    is
-                                    that emotions do not enter into the deals
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h3 class="accordion-header" id="heading11">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse11" aria-expanded="false" aria-controls="collapse11">
-                                    How does Forex trading bot work?
-                                </button>
-                            </h3>
-                            <div id="collapse11" class="accordion-collapse collapse" aria-labelledby="heading11"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    In the XAUBOT, an artificial intelligence (AI) is used and it automatically trades
-                                    on your
-                                    behalf
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h3 class="accordion-header" id="heading12">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse12" aria-expanded="false" aria-controls="collapse12">
-                                    How long is the product delivery time after purchasing the bot?
-                                </button>
-                            </h3>
-                            <div id="collapse12" class="accordion-collapse collapse" aria-labelledby="heading12"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    The download link will be active in your panel after purchasing so you can download
-                                    and run
-                                    XAUBOT.
-                                </div>
-                            </div>
-                        </div>
-                        <div class="accordion-item">
-                            <h3 class="accordion-header" id="heading13">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse13" aria-expanded="false" aria-controls="collapse13">
-                                    How to install and activate the xaubot?
-                                </button>
-                            </h3>
-                            <div id="collapse13" class="accordion-collapse collapse" aria-labelledby="heading13"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
+                                Pulsebot provides customer support and resources to help users with any questions or technical issues.
 
-                                    You can tutorial videos in our <a class="text-light"
-                                        href="https://telegram.me/xaubotAdvice"><b>telegram channel</b></a> or you can
-                                    ask our
-                                    whatsApp supporters
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-item">
-                            <h3 class="accordion-header" id="heading14">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapse14" aria-expanded="false" aria-controls="collapse14">
-                                    How many accounts are connected to each xaubot?
-                                </button>
-                            </h3>
-                            <div id="collapse14" class="accordion-collapse collapse" aria-labelledby="heading14"
-                                data-bs-parent="#accordionExample">
-                                <div class="accordion-body">
-                                    By purchasing each bot, only 1 real account can be connected to the robot
-                                </div>
-                            </div>
-                        </div>
+                       
                     </div>
                 </div>
             </div>

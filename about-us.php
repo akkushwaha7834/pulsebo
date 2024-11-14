@@ -5,7 +5,8 @@
 		<div class="row justify-content-center">
 			<div class="col-md-8">
 				<h2 class="main-heading text-gradient-color">
-					We are a team of forex enthusiasts from all over the world
+				We’re a worldwide team united by a passion for forex trading.
+
 				</h2>
 			</div>
 		</div>
@@ -20,10 +21,12 @@
 					About Us
 				</h4>
 				<p>
-					We currently have an Trading academy in the financial markets that educates people who are interested in learning the financial markets.  Also, in our academy, we developed smart trading robots such as XAUBOT.
+				Our Trading Academy offers comprehensive education for those eager to learn about the financial markets. Within our academy, we’ve also developed innovative trading tools like Pulsebot AI, designed to empower users with smart trading technology.
+
 				</p>
 				<p>
-					We hope that you join us on our mission to create the best investing system to ever hit the market. We know what we have in xaubot is profitable and believe that you can use expert tools without coding skills.
+				We invite you to join our mission to create an unparalleled investment system. With Pulsebot AI, you can access powerful, profitable tools without needing coding skills—helping you make the most of your trading journey.
+
 				</p>
 			</div>
 			<div class="col-md-5">

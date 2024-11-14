@@ -24,24 +24,17 @@
                 </div>
             </div>
             <div class="col-lg-6 align-self-center">
-                <h2 class="fs-1">Pulsebot AI</h2>
-                <p>XAUBOT is an Expert Advisor compatible with all forex trading pairs. It allows trading across
-                    multiple pairs simultaneously and can handle any pair you choose. For GOLD trading, XAUBOT
-                    AI is suitable for accounts with a balance exceeding $10,000.</p>
+                <h2 class="fs-1">Pulsebot AI: Gold Trading Expert Advisor</h2>
+                <p>Pulsebot AI is a versatile Expert Advisor compatible with all forex trading pairs, allowing for simultaneous trading across multiple pairs. For gold trading, Pulsebot is optimized for accounts with a balance above $10,000, with a minimum deposit of $600 for forex pairs and $10,000 for XAUUSD.
+                </p>
 
-                <p></p>
+               
                 <ul class="list-group list-inline fs-6">
-                    <li>Recommended currency pairs: <strong>AUDNZD, AUDCAD, NZDCAD, GBPNZD</strong></li>
-                    <li>Suitable for XAUUSD exceeding $10,000</li>
-                    <li>Minimum deposit <strong>$600</strong> for all FX pairs, <strong>$10,000</strong> for
-                        XAUUSD</li>
-                    <li>Customized set file for GOLD</li>
-                    <li>Live update account on <span style="color: #0000ff;"><a style="color: #0000ff;"
-                                href="https://www.myfxbook.com/members/hoseinShahsavari/xaubot-ai-multilevel/10574566"
-                                target="_blank" rel="nofollow noopener">MyFxBook</a></span></li>
-                    <li>Expected profit of 2% to 5%</li>
-                    <li>Drawdown limit according to your requirements</li>
-                    <li>15-day no questions asked refund policy</li>
+                    <li>Recommended Pairs: AUDNZD, AUDCAD, NZDCAD, GBPNZD</li>
+                    <li>Profit Expectation: 2%-5%</li>
+                    <li>Drawdown Control: Customizable limits</li>
+                    <li>Account Updates: Live tracking via MyFxBook</li>
+                    <li>Refund Policy: 15-day, no questions asked</li>
                 </ul>
 
             </div>
@@ -64,26 +57,17 @@
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
                     <h2>Multi-Level Strategy EA</h2>
-                    <p>This automated trading bot empowers you to trade multiple currency pairs and GOLD with ease.
-                        Customize your trading settings, such as stop loss (SL), take profit (TP), and drawdown limit
-                        (DD), and benefit from advanced features like news filtering and risk management. Whether you're
-                        an experienced trader or new to trading, this strategy is your path to success.
+                    <p>Pulsebot’s Multi-Level Strategy EA lets you trade multiple currency pairs and gold with ease. Customize settings like stop loss, take profit, and drawdown limits, while benefiting from features like news filtering and AI-driven risk management. Ideal for both beginners and experienced traders, this strategy is especially well-suited for Proprietary Trading (Prop Trading). Simply adjust the parameters to match your Prop Firm Challenge criteria and let Pulsebot execute trades autonomously.
                     </p>
-                    <p>This is the optimal choice for Proprietary Trading (Prop Trading). Simply adjust the input
-                        parameters according to the consistency rules in your Prop Firm Challenge and lets the bot
-                        decide and trade by itself.
-
-                    </p>
+                   
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Multi Level Strategy Features:</h2>
 
                     <ul>
-                        <li>Compatible with ALL currencies and GOLD</li>
-                        <li>Customize settings such as preferred levels, stop loss, take profit, and drawdown limit</li>
-                        <li>News filter actions</li>
-                        <li>Risk and money management techniques</li>
-                        <li>Compatible with the Prop-Firm challenges</li>
-                        <li>Custom set files for Prop-Firm and funded accounts</li>
+                        <li>Supports all currency pairs and gold</li>
+                        <li>Customizable trading parameters</li>
+                        <li>Risk and money management features</li>
+                        <li>Compatible with Prop Firm challenges and funded accounts</li>
                     </ul>
                     <div class="banner_links1 mt-3">
                         <a href="" class="d-block"
@@ -96,27 +80,22 @@
             <div class="col-lg-6">
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
-                    <h2>Multi-Level Strategy EA</h2>
-                    <p>This automated trading bot empowers you to trade multiple currency pairs and GOLD with ease.
-                        Customize your trading settings, such as stop loss (SL), take profit (TP), and drawdown limit
-                        (DD), and benefit from advanced features like news filtering and risk management. Whether you're
-                        an experienced trader or new to trading, this strategy is your path to success.
-                    </p>
-                    <p>This is the optimal choice for Proprietary Trading (Prop Trading). Simply adjust the input
-                        parameters according to the consistency rules in your Prop Firm Challenge and lets the bot
-                        decide and trade by itself.
+                    <h2>Scalp Strategy EA
+                    </h2>
+                    <p>Pulsebot’s Scalp Strategy EA is designed for traders seeking quick, short-term opportunities, particularly during low volatility periods. This high-performance bot allows you to set precise stop loss and take profit levels, ensuring optimal gains while minimizing risks. Perfect for aggressive trading styles, especially for those trading during off-peak hours.
+
 
                     </p>
                     <div class="section_brake my-2"></div>
                     <h2 class="fs-4">Multi Level Strategy Features:</h2>
 
                     <ul>
-                        <li>Compatible with ALL currencies and GOLD</li>
-                        <li>Customize settings such as preferred levels, stop loss, take profit, and drawdown limit</li>
-                        <li>News filter actions</li>
-                        <li>Risk and money management techniques</li>
-                        <li>Compatible with the Prop-Firm challenges</li>
-                        <li>Custom set files for Prop-Firm and funded accounts</li>
+                       <li>Trade multiple currencies with single-level settings</li>
+                       <li>Quick trades with customized stop loss and take profit</li>
+                       <li>News filtering for optimized entry/exit</li>
+                       <li>Set maximum daily loss and drawdown</li>
+                       <li>Time-limited trading options</li>
+                       <li>Integrated money management strategies</li>
                     </ul>
                     <div class="banner_links1 mt-3">
                         <a href="" class="d-block"
@@ -130,27 +109,20 @@
     </div>
 </section>
 
+
+
 <section class="about-track-record">
     <div class="container">
         <div class="row">
             <div class="col-12 text-center">
                 <div class="section_head">
-                    <h2>XAXUBOT's Track Record on
-                        <br>
-                        MyFxBook
+                    <h2>Pulsebot's Track Record <br> on MyFxBook
                     </h2>
-                    <p class="py-4">This account began with an initial funding of $90,000 and is set at a Medium Risk
-                        level with a 100% Drawdown. <br>Simultaneously, both Multi-level and Scalp strategies are active
-                        on our recommended currency pairs. For the multi-level strategy include <strong>(AUDNZD, AUDCAD,
-                            NZDCAD, GBPNZD)</strong>, while for the scalp strategy, we recommend <strong>(AUDNZD,
-                            NZDCAD, USDCHF)</strong>. For additional details about this account, click on the image to
-                        view it live on MyFXBOOK.</p>
+                    <p class="py-4">This account started with an initial balance of $90,000 and operates at a Medium Risk level with a 100% drawdown. Both Multi-level and Scalp strategies are active across our recommended currency pairs. The Multi-level strategy targets AUDNZD, AUDCAD, NZDCAD, and GBPNZD, while the Scalp strategy focuses on AUDNZD, NZDCAD, and USDCHF. For more details and live updates, click on the image to view the account on MyFXBook.
+                    </p>
                     <img src="assets/img/trask-recerod1.png" class="img-fluid" alt="">
-                    <p class="py-4">This account began with an initial funding of $10,000 and is set at a Medium Risk
-                        level with a
-                        100% Drawdown, and only the multi-level strategy is active, focusing on recommended currency
-                        pairs including <strong>(AUDNZD, AUDCAD, NZDCAD, GBPNZD)</strong>. For additional details about
-                        this account, click on the image to view it live on MyFXBOOK.</p>
+                    <p class="py-4">This account started with an initial deposit of $10,000 and operates at a Medium Risk level with a 100% drawdown. Only the Multi-level strategy is active, focusing on recommended currency pairs like AUDNZD, AUDCAD, NZDCAD, and GBPNZD. To explore more details, click on the image to view the live account on MyFXBook.
+                    </p>
                     <img src="assets/img/trask-recerod2.png" class="img-fluid w-100" alt="">
                     <a href=""
                         class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
@@ -167,16 +139,13 @@
             </div>
             <div class="col-12 text-center">
                 <div class="section_head">
-                    <h2>XAXUBOT's Track Record on <br>
-                        FXBlue
+                    <h2>Pulsebot's track record <br> on FXBlue
+
                     </h2>
-                    <p>Tracking the 90K account's performance on the<strong> FXBlue platform</strong> gives valuable
-                        insights. FXBlue provides detailed information such as daily drawdown, free margin, and daily
-                        trade volume.</p>
+                    <p>Tracking the performance of the 90K account on the FXBlue platform offers valuable insights into metrics like daily drawdown, free margin, and trade volume. FXBlue provides comprehensive data, helping users analyze trading activity in real time.
+                    </p>
                     <img src="assets/img/aichart1.png" class="img-fluid" alt="">
-                    <p class="py-4">Tracking the 10K account's performance on the<strong> FXBlue platform</strong> gives
-                        valuable insights. FXBlue provides detailed information such as daily drawdown, free margin, and
-                        daily trade volume.</p>
+                    <p class="py-4">Tracking the performance of the 10K account on FXBlue offers key insights, including daily drawdown, free margin, and trade volume. FXBlue’s platform delivers detailed analytics, helping users monitor trading activity and assess risk.</p>
                     <img src="assets/img/aichart2.png" class="img-fluid w-100" alt="">
                     <a href=""
                         class="text-decoration-none d-flex m-auto justify-content-evenly align-items-center px-3 py-4 rounded-3 mt-3"
@@ -195,6 +164,8 @@
     </div>
 </section>
 
+
+
 <section class="key_feature_pulsebotai bg-light">
     <div class="container">
         <div class="row g-4">
@@ -203,9 +174,8 @@
                     <h2>Key Features of <br> XAUBOT AI
                     </h2>
                     <ul class="list-group list-inline">
-                        <li>Money Management</li>
-                        <li>Risk Management</li>
-                        <li>Limited Drawdown</li>
+                        <li><strong>Money & Risk Management: </strong>Advanced techniques to protect and grow your investment.</li>
+                        <li><strong>Limited Drawdown:</strong> Customized drawdown limits for better control.</li>
                     </ul>
                 </div>
             </div>
@@ -213,10 +183,10 @@
                 <div class="key_feature_box text-center h-100">
                     <h2>Requirements </h2>
                     <ul class="list-group list-inline">
-                        <li>MetaTrader 4 live account or demo account for FRRE version</li>
-                        <li>Recommended leverage is above 1:200</li>
-                        <li>Recommended low spread account</li>
-                        <li>Minimum deposit $600</li>
+                        <li><strong>Account:</strong> MetaTrader 4 (live or demo)</li>
+                        <li><strong>Leverage: </strong>Above 1:200 recommended</li>
+                        <li><strong>Spread: </strong>Low spread account preferred</li>
+                        <li><strong>Deposit:</strong> Minimum $600</li>
                     </ul>
                 </div>
             </div>
@@ -224,17 +194,17 @@
                 <div class="key_feature_box text-center h-100">
                     <h2>Recommended <br> Settings</h2>
                     <ul class="list-group list-inline">
-                        <li>Run it on 4 recommended currency pairs (AUDNZD , AUDCAD, NZDCAD, GBPNZD)</li>
-                        <li>Select 15M time frame on your MT4 for Multi level strategy</li>
-                        <li>Ensure the Auto trading option on your mt4 is on</li>
-                        <li>For optimal performance, ensure the EA is always online by using a VPS (virtual private
-                            server) or keeping your PC continuously connected to the internet.</li>
+                        <li>Use the 15M time frame on the 4 recommended pairs (AUDNZD, AUDCAD, NZDCAD, GBPNZD).</li>
+                        <li>Enable Auto Trading in MT4.</li>
+                        <li>For optimal performance, use a VPS or ensure constant internet connection.</li>
                     </ul>
                 </div>
             </div>
         </div>
     </div>
 </section>
+
+
 
 <section class="how-to-install">
     <div class="container">
@@ -274,135 +244,90 @@
     </div>
 </section>
 
-<section class="white-page-faq">
-    <div class="container">
-        <div class="row">
-            <div class="col-12 text-center">
-                <div class="section_head">
-                    <h2>How to Install <br> XAUBOT?
-                    </h2>
-                </div>
-            </div>
-            <div class="col-12">
+<section class="faq-section strategies">
+	<div class="container">
+		<div class="row justify-content-center">
+			<div class="col-md-12 text-center">
+				<h3 class="strategies-head">
+					Frequently Asked <span>Questions</span>
+				</h3>
+				<p>
+					If you have any other queries, feel free to reach out to us via email or WhatsApp, and we'll gladly assist you.
+				</p>
+			</div>
+			<div class="col-md-8">
+				<div class="accordion faq-accordion mt-5 mb-5" id="accordionExample">
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingOne">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
+                                    What currency pairs can the bot trade?
+                                </button>
+                            </h3>
+                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    XAUBOT Works with ALL forex currency pairs
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingTwo">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    What brokers does the robot support and which broker do you recommend?
+                                </button>
+                            </h3>
+                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    While we don't recommend any brokers to our customers, here are brokers that have
+                                    been tested by us and our customers have had positive results with: IC Markets,
+                                    Pepperstone, Tickmill, RannForex, XM, FIBO Group, Coinexx, RoboForex, ThinkMarkets,
+                                    Vantage, Oanda, MexAtlantic, Windsor, Exness, FXCM, 8Cap.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="headingThree">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    Is it possible to change the settings of the bot?
+                                </button>
+                            </h3>
 
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4"> How do I test the XAUBOT ?</h2><span><i
-                                    class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            You can try the FREE XAUBOT to test the automated trading strategies.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">What is the minimum amount to invest?</h2><span><i
-                                    class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            Based on our customer's past performance and backtest results, we recommend having at least
-                            $1000 for trading multiple currency pairs and at least $10,000 for trading XAUUSD.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">Is it possible to trade XAUUSD with XAUBOT ?</h2><span><i
-                                    class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            Yes, it's suitable for GOLD trading, but only for capital exceeding $10,000. You'll also
-                            need to use the gold set file provided by the XAUBOT team.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">Which brokers are compatible with the EA's performance?</h2>
-                            <span><i class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            While we don't recommend any brokers to our customers, here are brokers that have been
-                            tested by us and our customers have had positive results with: IC Markets, Pepperstone,
-                            Tickmill, RannForex, XM, FIBO Group, Coinexx, RoboForex, ThinkMarkets, Vantage, Oanda,
-                            MexAtlantic, Windsor, Exness, FXCM, 8Cap.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">Is it required to use a VPS for installing the bot?</h2>
-                            <span><i class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            You can run the EA on your personal computer. However, many users prefer using a VPS service
-                            because it allows the EA to run continuously without relying on their own PC being on 24/7.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">How many accounts can I use XAUBOT on?</h2><span><i
-                                    class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            Each license key is assigned to one specific account number.
-                        </div>
-                    </div>
-                </div>
-                <div class="details">
-                    <details class="details__container">
-                        <summary class="details__summary d-flex justify-content-between align-items-center px-2">
-                            <!-- The title -->
-                            <h2 class="details__title fs-4">Can I install the bot on my phone?</h2><span><i
-                                    class="ri-arrow-down-s-line fs-2"></i></span>
-                        </summary>
-                    </details>
-                    <!-- The content -->
-                    <div class="details__desc">
-                        <div class="details__desc-inner">
-                            Installing the bot requires a computer or VPS. However, once installed, you can manage it
-                            using your mobile phone with MetaTrader 4 application.
-                        </div>
-                    </div>
-                </div>
+                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
+                                    Yes, the bot can be adjusted in 3 modes: low, medium and high, in each of which the
+                                    amount
+                                    of
+                                    monthly profit and drawdown is different.
+                                </div>
+                            </div>
 
+                        </div>
 
-            </div>
+                        <div class="accordion-item">
+                            <h3 class="accordion-header" id="heading4">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapse4" aria-expanded="false" aria-controls="collapse4">
+                                    What is the monthly profit?
+                                </button>
+                            </h3>
+                            <div id="collapse4" class="accordion-collapse collapse" aria-labelledby="heading4"
+                                data-bs-parent="#accordionExample" style="">
+                                <div class="accordion-body">
 
-        </div>
-    </div>
+                                    It depends on the market conditions, but around 2% to 10% based on your desire risk.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+			</div>
+		</div>
+	</div>
 </section>
+
 
 <?php include('includes/footer.php'); ?>

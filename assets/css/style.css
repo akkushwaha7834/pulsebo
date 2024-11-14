@@ -354,7 +354,7 @@ p {
     width: 400px;
     text-align: center;
     margin-top: 190px;
-    margin-left: 45%;
+    margin-left: 50%;
     transform: translateX(-50%);
 }
 
@@ -878,3 +878,19 @@ footer{
     background-color: var(--grey);
     padding: 20px 30px;
   }
+.prisecard{
+    background-color: var(--grey);
+    padding: 20px 30px;
+}
+.pricing-content-wrap.listing-content.style-1 {
+    position: relative;
+    display: block;
+    width: 100%;
+}
+.rab_btn{
+    background-color: var(--grey);
+    width: fit-content;
+    margin: 50px auto;
+    padding: 10px;
+    border-radius: 25px;
+}
