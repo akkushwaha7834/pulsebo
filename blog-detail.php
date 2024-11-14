@@ -20,7 +20,8 @@
 		<div class="row">
 			<div class="col-md-8">
 				<div class="blog-details">
-					<h2>
+					<img src="assets/img/what-is-expert-advisor.jpg" class="img-fluid">
+					<h2 class="mt-4">
 						Lorem Ipsum
 					</h2>
 					<p class="text-black">
