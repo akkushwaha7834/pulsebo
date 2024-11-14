@@ -4,8 +4,8 @@
         <section class="banner">
 
             <div class="container ">
-                <div class="bannerimg">
-                    <div class="row align-slef-center">
+                <div class="bannerimg ">
+                    <div class="row align-slef-center ">
                         <div class="col-lg-6 col-md-10  ">
                             <div class="banner-left">
                                 <h1>Forex Trading Tool
@@ -182,7 +182,7 @@
                                     <p class="steps__p">Choose your subscription and get your exclusive license key,
                                         tailored to your MT4 account number.</p>
                                 </div>
-                                <img src="assets/img/step1.png" class="steps__img img-fluid" alt="" loading="lazy">
+                                <img src="assets/img/Step1.svg" class="steps__img img-fluid" alt="" loading="lazy">
                             </div>
                             <div class="step step2 d-none">
                                 <div class="steps__content">
@@ -190,7 +190,7 @@
                                     <p class="steps__p">Download and run your EA file in under 5 minutes with our video
                                         tutorial on YouTube or PDF guide included in the zip file.</p>
                                 </div>
-                                <img src="assets/img/step2.png" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/step2.svg" class="steps__img img-fluid" alt="">
                             </div>
                             <div class="step step3 d-none">
                                 <div class="steps__content">
@@ -199,7 +199,7 @@
                                         settings, or you can use our default set file and load it through the settings.
                                     </p>
                                 </div>
-                                <img src="assets/img/step3.png" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/Step3.svg" class="steps__img img-fluid" alt="">
                             </div>
                             <div class="step step4 d-none">
                                 <div class="steps__content">
@@ -207,7 +207,7 @@
                                     <p class="steps__p">Use the AI tools without coding skills and help you save time,
                                         trade 24/5 and automate your trading.</p>
                                 </div>
-                                <img src="assets/img/step4.png" class="steps__img img-fluid" alt="">
+                                <img src="assets/img/Step4.svg" class="steps__img img-fluid" alt="">
                             </div>
                         </div>
                     </div>
@@ -366,8 +366,8 @@
                 <div class="row">
                     <div class="col-12 mt-5 ">
                         <div class="section_head">
-                            <h2>Online Profit Calculator</h2>
-                            <h5>Choose a Plan and Calculate Your Expected Profit</h5>
+                           <h2>Key Features of XAUBOT Futures</h2>
+                           <h5>4 Top Features in Our Latest Updates</h5>
                         </div>
                     </div>
 
@@ -419,13 +419,14 @@
 
         </section>
 
-        <section class="blogs">
+        <section class="blogs pt-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 mt-5 ">
+                    <div class="col-12  ">
                         <div class="section_head">
-                            <h2>Online Profit Calculator</h2>
-                            <h5>Choose a Plan and Calculate Your Expected Profit</h5>
+                            
+                        <h2>Last Forex Articles</h2>
+                        <h5>Stay Updated</h5>
                         </div>
                     </div>
 
