@@ -619,3 +619,28 @@ footer{
     border-radius: 20px;
     color: #fff;
 }
+
+/*Affiliate*/
+.affiliate-banner{
+    padding: 180px 0;
+    background-size: cover;
+    background-position: center left;   
+}
+.affiliate-cta{
+    background: var(--white);
+    display: inline-block;
+    padding: 50px;
+    border-radius: 10px;
+}
+.affiliate-cta-main{
+    display: flex;
+    justify-content: center;
+}
+.affiliate-cta i{
+    font-size: 50px;
+}
+.how-affiliate{
+    background-color: var(--white);
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
