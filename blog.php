@@ -7,7 +7,7 @@
 				<h2 class="text-gradient-color">
 					Pulsebot Blog
 				</h2>
-				<p>
+				<p class="text-white">
 					Achieve more with forex education hub.
 				</p>
 			</div>

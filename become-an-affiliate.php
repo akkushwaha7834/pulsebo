@@ -5,7 +5,7 @@
 		<div class="row align-items-center">
 			<div class="col-md-8 text-center">
 				<h2 class="text-gradient-color">Pulsebot Affiliate Program</h2>
-				<p>
+				<p class="text-white">
 					With Pulsebot Affiliate Program you get money when people from your network become Pulsebot Customers. You get 25% commission. A win-win!
 				</p>
 			</div>
