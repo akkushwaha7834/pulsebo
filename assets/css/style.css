@@ -10,7 +10,7 @@
 :root {
     --primary: #12222d;
     --secandry: #f15a59;
-    --grey: #ffffff;
+    --grey: #f2f2f2;
     --white: #ffffff;
     --glass: #ffffff17;
 }
@@ -60,11 +60,12 @@ header nav {
 }
 .dropdown_content a{
     display: block;
+    
  }
 .dropdown_content a:hover{
- background-color: var(--secandry);
- }
+}
 .dropdown_content{
+    background-color: var(--secandry);
     transition: all .2s;
     position: absolute;
     opacity: 0;
@@ -722,3 +723,98 @@ footer{
     position: sticky;
     top: 0;
 }
+.key_feature_box{
+    background-color: var(--primary) !important;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+.key_feature_box ul li {
+    color: white;
+    
+}
+/* faq page  */
+
+/* Detail styling */
+.details{
+    --padding: 10px;
+    border: 1px solid #8d8d8d;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  }
+  
+  .details + .details{
+    margin-top: 15px;
+  }
+  
+  .details__title{
+    --width: 20px;
+    --height: 3px;
+    --radius: 1px;
+    --color: currentColor;
+    margin:0;
+    padding: var(--padding) calc(var(--width) * 2) var(--padding) var(--padding);
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+    position: relative;
+  }
+  
+  .details__title:before,
+  .details__title:after{
+    content:'';
+    display: block;
+    width: var(--width);
+    height: var(--height);
+    background-color: var(--color);
+    position: absolute;
+    border-radius: var(--radius);
+    top: calc(50% - (var(--height) / 2));
+    right: calc(var(--width) / 2);
+    transition: all .2s ease-in-out;
+  }
+  
+  .details__title:after{
+    rotate: 90deg;
+  }
+  
+  .details__container[open] .details__title:before{
+    rotate: 45deg;
+    /* rotate: 135deg; */
+  }
+  
+  .details__container[open] .details__title:after{
+    rotate: 135deg;
+    /* rotate: 225deg; */
+  }
+  
+  .details__container[open] .details__title{
+    background-color: #f3f3f3;
+  }
+  
+  .details__summary::marker{
+    content:'';
+  }
+  
+  .details__desc{
+    visibility: hidden;
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: all .2s ease-in-out;
+    overflow: hidden;
+    padding-inline: var(--padding);
+    pointer-events: none;
+  }
+  
+  .details__container[open] + .details__desc{
+    visibility: visible;
+    grid-template-rows: 1fr;
+    padding-block: var(--padding);
+  }
+  
+  .details__desc-inner{
+    min-height: 0;
+  }
+  .what-include-box{
+    background-color: var(--grey);
+    padding: 20px 30px;
+  }
