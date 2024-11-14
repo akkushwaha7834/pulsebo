@@ -4,8 +4,8 @@
         <section class="banner">
 
             <div class="container ">
-                <div class="bannerimg">
-                    <div class="row align-slef-center">
+                <div class="bannerimg ">
+                    <div class="row align-slef-center ">
                         <div class="col-lg-6 col-md-10  ">
                             <div class="banner-left">
                                 <h1>Forex Trading Tool
@@ -366,8 +366,8 @@
                 <div class="row">
                     <div class="col-12 mt-5 ">
                         <div class="section_head">
-                            <h2>Online Profit Calculator</h2>
-                            <h5>Choose a Plan and Calculate Your Expected Profit</h5>
+                           <h2>Key Features of XAUBOT Futures</h2>
+                           <h5>4 Top Features in Our Latest Updates</h5>
                         </div>
                     </div>
 
@@ -419,13 +419,14 @@
 
         </section>
 
-        <section class="blogs">
+        <section class="blogs pt-0">
             <div class="container">
                 <div class="row">
-                    <div class="col-12 mt-5 ">
+                    <div class="col-12  ">
                         <div class="section_head">
-                            <h2>Online Profit Calculator</h2>
-                            <h5>Choose a Plan and Calculate Your Expected Profit</h5>
+                            
+                        <h2>Last Forex Articles</h2>
+                        <h5>Stay Updated</h5>
                         </div>
                     </div>
 

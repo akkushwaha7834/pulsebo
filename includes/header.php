@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css">
 </head>
 
-<body>
+<body id="body">
     <header id="mainhead">
 
         <nav class="container" id="nav">
@@ -23,7 +23,7 @@
             <div class="pages">
                 <ul>
                     <li><a href="./">Home</a></li>
-                    <li class="dropdown"><a href="#">Products</a>
+                    <li class="dropdown"><a href="#">Products <span><i class="ri-arrow-down-line"></i></span></a>
                         <div class="dropdown_content">
                             <a href="pulsebot-ai.php">Pulsebot AI</a>
                             <a href="pulsebot-pro.php">Pulsebot PRO</a>
@@ -55,11 +55,11 @@
             </div>
             <div class="offcanvas mobile_pages_list offcanvas-start" data-bs-scroll="true" data-bs-backdrop="false"
                 tabindex="-1" id="offcanvasScrolling" aria-labelledby="offcanvasScrollingLabel">
-                <div class="offcanvas-header">
+                <div class="offcanvas-header ">
                     <h5 class="offcanvas-title  text-light" id="offcanvasScrollingLabel"><div class="logo">
                         <img src="assets/img/light-logo.png" width="180px" alt="">
                     </div></h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    <button type="button" class="btn-close  btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
                 </div>
                 <div class="offcanvas-body">
                     <div class="pages-ofcanvas">
@@ -73,6 +73,17 @@
                             <li><a href="">Contact</a></li>
                             <li><a href="">Webinars</a></li>
                         </ul>
+                    </div>
+                    <div class="icons  ">
+                        <a href="" class="user ">
+                            <i class="ri-user-line"></i>
+                        </a>
+                        <a href="" class="search ">
+                            <i class="ri-search-line"></i>
+                        </a>
+                        <a href="" class="cart ">
+                            <i class="ri-shopping-cart-line"></i>
+                        </a>
                     </div>
                 </div>
             </div>
