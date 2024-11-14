@@ -6,14 +6,14 @@
 			<div class="col-md-8 text-center">
 				<h2 class="text-gradient-color">Pulsebot Affiliate Program</h2>
 				<p>
-					With Pulsebot Affiliate Program you get money when people from your network become XAUBOT Customers. You get 25% commission. A win-win!
+					With Pulsebot Affiliate Program you get money when people from your network become Pulsebot Customers. You get 25% commission. A win-win!
 				</p>
 			</div>
 			<div class="col-md-4 affiliate-cta-main">
 				<div class="affiliate-cta text-center">
 					<i class="ri-shake-hands-line text-gradient-color"></i>
 					<h3 class="text-gradient-color" style="font-weight: 700;">Affiliate Program</h3>
-					<p class="text-gradient-color">On every new paid XAUBOT account you refer</p>
+					<p class="text-gradient-color">On every new paid Pulsebot account you refer</p>
 				</div>
 			</div>
 		</div>
