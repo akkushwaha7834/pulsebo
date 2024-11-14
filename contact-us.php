@@ -1,6 +1,6 @@
 <?php include ('includes/header.php');?>
 
-<section class="contact-us" style="">
+<section class="main-section" style="">
 	<div class="container">
 		<div class="row">
 			<div class="col-12">
