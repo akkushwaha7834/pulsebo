@@ -6,7 +6,6 @@
 			<div class="col-md-8">
 				<h2 class="main-heading text-gradient-color">
 				We’re a worldwide team united by a passion for forex trading.
-
 				</h2>
 			</div>
 		</div>

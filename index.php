@@ -14,7 +14,7 @@
                                 <p>Pulsebot is a powerful Expert Advisor driven by machine learning and AI, designed to work seamlessly with all forex trading pairs.</p>
                                 <div class="banner_links">
                                     <a href="">Get Started for Free <span><i class="ri-user-fill"></i></span></a>
-                                    <a href="">Join Telegram <span><i class="ri-telegram-2-line"></i></span></a>
+                                    <a href="" class="res-btn">Join Telegram <span><i class="ri-telegram-2-line"></i></span></a>
                                 </div>
                             </div>
                         </div>

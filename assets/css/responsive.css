@@ -38,3 +38,18 @@
         display: none;
     }
 }
+@media( max-width: 767px){
+    .banner-left {
+        padding: 50px 20px;
+    }
+    .res-btn{
+        display: none!important;
+    }
+    .banner .banner-left h1{
+        font-size: 45px;
+        text-align: center;
+    }
+    .main-heading{
+        font-size: 40px;
+    }
+}

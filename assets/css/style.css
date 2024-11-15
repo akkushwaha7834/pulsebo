@@ -142,7 +142,7 @@ header nav {
     /* background-color: #12222d; */
     padding-bottom: 0;
     background-image: url(../img/banner.png);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 
