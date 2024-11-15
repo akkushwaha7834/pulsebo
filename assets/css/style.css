@@ -750,6 +750,11 @@ footer{
 .strategies .strategies-head{
     font-weight: 800;
     font-size: 40px;
+    color: var(--white);
+}
+.questions{
+    font-weight: 800;
+    font-size: 40px;
 }
 .strategies-head span{
     color: var(--secandry);

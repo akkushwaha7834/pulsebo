@@ -59,7 +59,7 @@
                         <div class="col-md-7">
                             <div class="row p-2">
                                 <div class="col-lg-7 mt-4 text-lg-start text-center">
-                                    <p>AI-powered forex trading bot to help you save time and let xaubot do the work for
+                                    <p>AI-powered forex trading bot to help you save time and let Pulsebot do the work for
                                         you</p>
                                 </div>
                                 <div class="col-lg-4">
@@ -127,7 +127,7 @@
                         <a href="">
                             <img src="assets/img/result1.png" class="img-fluid w-100" alt="">
                             <div class="live_result_name">
-                                Multi level & Scalp XAUBOT's Myfxbook
+                                Multi level & Scalp Pulsebot's Myfxbook
                             </div>
                         </a>
                     </div>
@@ -135,7 +135,7 @@
                         <a href="">
                             <img src="assets/img/result1.png" class="img-fluid w-100" alt="">
                             <div class="live_result_name">
-                                Multi level & Scalp XAUBOT's Myfxbook
+                                Multi level & Scalp Pulsebot's Myfxbook
                             </div>
                         </a>
                     </div>
@@ -143,7 +143,7 @@
                         <a href="">
                             <img src="assets/img/result1.png" class="img-fluid w-100" alt="">
                             <div class="live_result_name">
-                                Multi level & Scalp XAUBOT's Myfxbook
+                                Multi level & Scalp Pulsebot's Myfxbook
                             </div>
                         </a>
                     </div>
@@ -151,7 +151,7 @@
                         <a href="">
                             <img src="assets/img/result1.png" class="img-fluid w-100" alt="">
                             <div class="live_result_name">
-                                Multi level & Scalp XAUBOT's Myfxbook
+                                Multi level & Scalp Pulsebot's Myfxbook
                             </div>
                         </a>
                     </div>
@@ -328,8 +328,8 @@
                         <div class="str__drop">
                             <span class="str__heading">Plan</span>
                             <select class="form-select w-100" id="selectplan" aria-label="Default select example">
-                                <option value="39">XAUBOT AI</option>
-                                <option value="33">XAUBOT Pro</option>
+                                <option value="39">Pulsebot AI</option>
+                                <option value="33">Pulsebot Pro</option>
                             </select>
                         </div>
                     </div>
