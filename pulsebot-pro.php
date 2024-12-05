@@ -98,7 +98,7 @@
             </div>
 
         </div>
-        <div class="row">
+        <div class="row g-4 mt-4">
             <div class="col-lg-6">
                 <div class="what-include-box">
                     <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">

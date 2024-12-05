@@ -29,7 +29,7 @@
                             <a href="pulsebot-pro.php">Pulsebot PRO</a>
                         </div>
                     </li>
-                    <li><a href="pricing.php">Pricing</a></li>
+                    <!-- <li><a href="pricing.php">Pricing</a></li> -->
                     <li><a href="become-an-affiliate.php">Affiliate</a></li>
                     <li><a href="blog.php">Blog</a></li>
                     <li><a href="about-us.php">About</a></li>
@@ -64,14 +64,14 @@
                 <div class="offcanvas-body">
                     <div class="pages-ofcanvas">
                         <ul>
-                            <li><a href="">Home</a></li>
-                            <li><a href="">Products</a></li>
-                            <li><a href="">Pricing</a></li>
-                            <li><a href="">Affiliate</a></li>
-                            <li><a href="">Blog</a></li>
-                            <li><a href="">About</a></li>
-                            <li><a href="">Contact</a></li>
-                            <li><a href="">Webinars</a></li>
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="#">Products</a></li>
+                            <!-- <li><a href="pricing.php">Pricing</a></li> -->
+                    <li><a href="become-an-affiliate.php">Affiliate</a></li>
+                    <li><a href="blog.php">Blog</a></li>
+                    <li><a href="about-us.php">About</a></li>
+                    <li><a href="contact-us.php">Contact</a></li>
+                    <li><a href="pulsebot-webinar.php">Webinars</a></li>
                         </ul>
                     </div>
                     <div class="icons  ">

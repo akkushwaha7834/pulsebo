@@ -6,7 +6,7 @@
 			<div class="col-12">
 				<h2 class="main-heading text-gradient-color">Let’s Connect</h2>
 				<p class="text-center">
-					Contact us with any questions or if you’d like more information about XAUBOT Group’s services.
+					Contact us with any questions or if you’d like more information about Pulsebot Group’s services.
 				</p>
 			</div>
 		</div>

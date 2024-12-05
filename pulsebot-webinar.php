@@ -16,7 +16,7 @@
 			</div>
 			<div class="col-md-6">
 				<div class="youtube-embed-section">
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/D0UnqGm_miA?si=sYPd7Bk-TH0j6oh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+					<iframe width="100%" height="315" src="https://www.youtube.com/embed/D0UnqGm_miA?si=sYPd7Bk-TH0j6oh9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 				</div>
 			</div>
 		</div>
@@ -30,7 +30,7 @@
 				<h3 class="strategies-head">
 					Top 3 Strategies for <span>Forex Trading</span> in 2024
 				</h3>
-				<h4>
+				<h4 class="text-white">
 					What You’ll Discover
 				</h4>
 			</div>
@@ -109,7 +109,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center">
-				<h3 class="strategies-head">
+				<h3 class="questions">
 					Got Questions About <span>Trading</span>
 				</h3>
 				<h4>
@@ -146,7 +146,7 @@
                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    XAUBOT Works with ALL forex currency pairs
+                                    Pulsebot Works with ALL forex currency pairs
                                 </div>
                             </div>
                         </div>

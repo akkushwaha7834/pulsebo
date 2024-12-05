@@ -80,7 +80,7 @@
             </div>
             <div class="col-lg-6">
                 <div class="what-include-box">
-                    <img src="assets/img/what-include-img1.png" class="img-fluid" alt="">
+                    <img src="assets/img/what-include-img2.png" class="img-fluid" alt="">
                     <h2>Scalp Strategy EA
                     </h2>
                     <p>Pulsebot’s Scalp Strategy EA is designed for traders seeking quick, short-term opportunities, particularly during low volatility periods. This high-performance bot allows you to set precise stop loss and take profit levels, ensuring optimal gains while minimizing risks. Perfect for aggressive trading styles, especially for those trading during off-peak hours.
@@ -133,7 +133,7 @@
                         </div>
                         <div class="suport-disc text-start">
                             <h2 class="fs-5">24/5 Support</h2>
-                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                            <h2 class="fs-5">Pulsebot offers 24/5 support</h2>
                         </div>
                     </a>
                 </div>
@@ -156,7 +156,7 @@
                         </div>
                         <div class="suport-disc text-start">
                             <h2 class="fs-5">24/5 Support</h2>
-                            <h2 class="fs-5">XAUBOT offers 24/5 support</h2>
+                            <h2 class="fs-5">Pulsebot offers 24/5 support</h2>
                         </div>
                     </a>
                 </div>
@@ -172,7 +172,7 @@
         <div class="row g-4">
             <div class="col-lg-6 col-md-6">
                 <div class="key_feature_box text-center h-100">
-                    <h2>Key Features of <br> XAUBOT AI
+                    <h2>Key Features of <br> Pulsebot AI
                     </h2>
                     <ul class="list-group list-inline">
                         <li><strong>Money & Risk Management: </strong>Advanced techniques to protect and grow your investment.</li>
@@ -212,7 +212,7 @@
         <div class="row">
             <div class="col-12 text-center">
                 <div class="section_head">
-                    <h2>How to Install <br> XAUBOT?
+                    <h2>How to Install <br> Pulsebot?
                     </h2>
                 </div>
             </div>
@@ -268,7 +268,7 @@
                             <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
                                 data-bs-parent="#accordionExample" style="">
                                 <div class="accordion-body">
-                                    XAUBOT Works with ALL forex currency pairs
+                                    Pulsebot Works with ALL forex currency pairs
                                 </div>
                             </div>
                         </div>
