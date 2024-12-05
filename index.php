@@ -1,6 +1,6 @@
 <?php include ('includes/header.php');?>
     <main>
-
+<!-- done -->
         <section class="banner">
 
             <div class="container ">
@@ -24,6 +24,7 @@
 
         </section>
 
+<!-- done -->
         <section class="about py-0 mt-5">
             <div class="container  ">
                 <div class="row py-5">
@@ -80,6 +81,7 @@
 
         </section>
 
+<!-- done -->
         <section class="why_invest">
             <div class="container">
                 <div class="row py-5">
@@ -113,6 +115,8 @@
                 <div class="section_brake"></div>
             </div>
         </section>
+
+<!-- done -->
 
         <section class="live_result pt-0">
             <div class="container">
@@ -160,6 +164,8 @@
             </div>
         </section>
 
+<!-- done -->
+        
         <section class="step_of_investing" id="step_of_investing">
             <div class="container-fluid">
                 <div class="row">
@@ -215,6 +221,7 @@
                 <div class="section_brake"></div>
             </div>
         </section>
+<!-- done -->
 
         <section class="prise_cards pt-0">
             <div class="container">
@@ -313,6 +320,8 @@
 
         </section>
 
+<!-- done -->
+
         <section class="profit_calculater">
             <div class="container">
                 <div class="row">
@@ -359,6 +368,8 @@
                 </div>
             </div>
         </section>
+
+<!-- done -->
 
         <section class="key_features pt-0 ">
             <img src="assets/img/moon.png" class="img-fluid position-absolute" alt="">
@@ -418,6 +429,7 @@
             </div>
 
         </section>
+        <!-- done -->
 
         <section class="blogs pt-0">
             <div class="container">
@@ -482,6 +494,8 @@
                 <div class="section_brake"></div>
             </div>
         </section>
+
+        <!-- done -->
 
         <section class="faq pt-0">
             <div class="container">
